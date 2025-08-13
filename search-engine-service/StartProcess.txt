@@ -1,0 +1,7 @@
+D:
+cd AgriScraper
+.\scraper_env\Scripts\activate
+cd "Discovery API"
+python app.py
+docker build -t discovery-api .
+docker run -d -p 5000:5000 --name my-discovery-service discovery-api

@@ -1,0 +1,4 @@
+# /api_gateway/requirements.txt
+fastapi
+uvicorn[standard]
+httpx

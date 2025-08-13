@@ -1,0 +1,18 @@
+# --- Core Application & ML ---
+flask
+pandas
+
+
+joblib==1.4.2
+scikit-learn==1.5.1
+xgboost==2.1.0
+
+# --- Web Scraping & APIs ---
+requests
+selenium
+webdriver-manager
+beautifulsoup4
+google-api-python-client
+
+# --- Production Server ---
+gunicorn

@@ -1,0 +1,13 @@
+# Ignore all secret .env files
+**/.env
+
+# Ignore Python virtual environments
+**/venv/
+**/scraper_env/
+
+# Ignore Python cache files
+**/__pycache__/
+
+# Ignore other common temp files
+*.pyc
+.DS_Store

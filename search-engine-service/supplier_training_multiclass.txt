@@ -1,0 +1,49 @@
+# Class 0: B2B Marketplace / Wholesaler
+# --- Multi-vendor platforms for connecting businesses ---
+https://www.alibaba.com/
+https://www.europages.co.uk/
+https://www.go4worldbusiness.com/
+https://www.globalsources.com/
+https://www.tradeindia.com/
+https://www.indiamart.com/
+https://www.kompass.com/
+https://www.poland-export.com/
+
+# Class 1: Direct Producer / Brand Site
+# --- Corporate or B2B-focused sites of a single producer/brand ---
+https://veldhuyzenkaas.nl/cheese-export/
+https://www.gruppoladoria.it/en/
+https://www.conservaspinhais.com/en/home
+https://www.lst-polska.pl/en/offer/
+https://www.gecomexport.com/products/tomatoes/
+https://www.heessoils.com/en/
+https://www.protos-he.de/en/Infos/Service/B2B/wholesale-olive-oil
+https://www.barilla.com/en-us/
+
+# Class 2: Specialty E-commerce / Retailer
+# --- Online stores selling products from one or many brands directly ---
+https://www.thetasteofgermany.com/
+https://igourmet.com/
+https://www.gustiamo.com/
+https://portuguesesardine.us/
+https://www.bakersauthority.com/
+https://centralmilling.com/
+https://mainegrains.com/
+https://gourmetfoodmarketplace.com/
+https://bartonspringsmill.com/
+https://www.kingarthurbaking.com/pro
+
+# Class 3: Information / Blog / News
+# --- Articles, forums, data portals, non-commercial sites ---
+https://www.foodandwine.com/
+https://www.fao.org/home/en
+https://www.reddit.com/r/agriculture/
+https://en.wikipedia.org/wiki/Agriculture
+https://www.foodnavigator.com/
+https://www.statista.com/
+https://oec.world/en/
+https://www.cbi.eu/market-information/processed-fruit-vegetables-edible-nuts/frozen-berries/market-entry
+https://east-fruit.com/en/horticulture-market/market-reviews/raspberry-market-overview-for-ukraine-poland-serbia-and-moldova/
+https://www.fortunebusinessinsights.com/industry-reports/olive-oil-market-101455
+https://www.bluecart.com/blog/olive-oil-business
+https://seriouseats.com/

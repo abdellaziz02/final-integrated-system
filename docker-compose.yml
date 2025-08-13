@@ -1,0 +1,57 @@
+services:
+  # --- YOUR SERVICES ---
+  nlp_service:
+    build:
+      context: ./nlp_service
+    environment:
+      # This service gets the FIRST Groq API key from your .env file
+      - GROQ_API_KEY=${GROQ_API_KEY}
+    ports:
+      - "8000:8000"
+
+  search-engine-service:
+    build:
+      context: ./search-engine-service
+    environment:
+      - GOOGLE_API_KEY=${GOOGLE_API_KEY}
+      - GOOGLE_SEARCH_ENGINE_ID=${GOOGLE_SEARCH_ENGINE_ID}
+    depends_on:
+      - nlp_service
+    ports:
+      - "5001:5000"
+
+  # --- YOUR COLLEAGUE'S SERVICES ---
+  api_gateway:
+    build:
+      context: ./api_gateway
+    ports:
+      - "8080:8000"
+    environment:
+      - NLP_SERVICE_URL=http://nlp_service:8000
+      - SEARCH_ENGINE_URL=http://search-engine-service:5000
+      - SCRAPER_SERVICE_URL=http://scraper_service:8001
+      - PRODUCT_AI_SERVICE_URL=http://product_ai_service:8002
+      - ENRICHER_SERVICE_URL=http://enrichment_llm_service:8003
+    depends_on:
+      - nlp_service
+      - search-engine-service
+      - scraper_service
+      - product_ai_service
+      - enrichment_llm_service
+
+  scraper_service:
+    build:
+      context: ./scraper_service
+
+  product_ai_service:
+    build:
+      context: ./product_ai_service
+
+  enrichment_llm_service:
+    build:
+      context: ./enrichment_llm_service
+    environment:
+      # --- THIS IS THE CRITICAL AND FINAL FIX ---
+      # This line takes the value of GROQ_API_KEY1 from your .env file
+      # and injects it into the container with the exact name the code is looking for.
+      - GROQ_API_KEY1=${GROQ_API_KEY1}

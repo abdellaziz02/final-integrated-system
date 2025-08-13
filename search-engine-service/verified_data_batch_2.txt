@@ -1,0 +1,92 @@
+# Class 0: B2B Marketplace / Wholesaler
+# --- Multi-vendor platforms for connecting businesses ---
+https://www.agriexpo.online/
+https://www.tridge.com/
+https://www.rangeme.com/
+https://www.fullharvest.com/
+https://choco.com/us/
+https://indiantradeportal.in/
+https://www.enam.gov.in/
+https://agriexchange.apeda.gov.in/
+https://apps.fas.usda.gov/gats/default.aspx
+https://www.alibaba.com/showroom/olive-oil-price-in-spain.html
+https://scoutstock.com/
+
+# Class 1: Direct Producer / Brand Site
+# --- Corporate or B2B-focused sites of a single food producer or large distributor ---
+https://www.sysco.com/
+https://bandifoods.com/
+https://www.nestle.com/
+https://www.generalmills.com/
+https://www.hormelfoods.com/
+https://www.mars.com/
+https://www.cargill.com/
+https://www.thecampbellscompany.com/
+https://www.pepsico.com/
+https://www.tysonfoods.com/
+https://www.kraftheinzcompany.com/
+https://www.grande.com/
+https://www.zanetti-spa.it/en
+https://www.sartoricheese.com/
+https://www.mancusocheese.com/
+https://visscherseafood.com/
+https://carsoe.com/about/carsoe-no/
+https://www.baader.com/fish/species/salmon
+https://simpplier.com/catalog/groceries/oils-vinegars/olive-oil/spanish-extra-virgin-olive-oil-bulk-1000lt-ibc/
+https://www.beloleum.com/en/olive-oil-supplier/
+https://lpglobal.eu/olive-oils/
+https://iberica-export.com/en/products/olive-oil
+https://en.seafood.no/
+https://www.fishofnorway.com/export
+
+# Class 2: Specialty E-commerce / Retailer
+# --- Online stores selling products, often from multiple brands, directly ---
+https://ingredientsupplier.com/
+https://www.foodguys.com/
+https://www.americaninternationalfoods.com/
+https://bulkfoods.com/ingredients.html
+https://tlcingredients.com/
+https://bremeringredients.com/
+https://icifoods.com/
+https://www.webstaurantstore.com/restaurant-consumables.html
+https://www.bakersauthority.com/
+https://oliveoillovers.com/pages/wholesale-olive-oil
+https://oliveoillovers.com/pages/bulk-olive-oil
+
+# Class 3: Information / Blog / News
+# --- Articles, forums, data portals, reports, etc. ---
+https://vietcetera.com/en/kamereo-vietnams-first-tech-powered-b2b-food-sourcing-platform-raises-46-million-in-series-a-funding
+https://www.shipturtle.com/blog/top-b2b-food-marketplace
+https://www.credenceresearch.com/report/b2b-food-marketplace-platform-market
+https://tech.eu/2024/04/09/food-sourcing-platform-torg-raises-eur27m-seed/
+https://www.adobomagazine.com/global-news/brand-business-kamereo-vietnams-first-tech-powered-b2b-food-sourcing-platform-bags-4-6-million-in-series-a-funding/
+https://www.linkedin.com/pulse/2032-latest-report-b2b-food-marketplace-platform-market-size-mwkrf
+https://agridata.ec.europa.eu/extensions/DataPortal/trade.html
+https://agri.ohio.gov/
+https://www.fas.usda.gov/data
+https://www.vdacs.virginia.gov/
+https://www.usda.gov/
+https://www.parmigianoreggiano.com/dairies-visit-tasting
+https://farmexperiencestours.com/cheese-italy/
+https://www.reddit.com/r/ItalyTravel/comments/1cvrogy/food_factory_tour_from_parma/
+https://www.clal.it/en/?section=formaggi_dop
+https://culturecheesemag.com/blog/a-journey-through-italys-northern-cheese-country/
+https://www.wikinapoli.com/italy/emilia-romagna/parmigiano-producers
+https://pubmed.ncbi.nlm.nih.gov/15725289/
+https://www.sciencedirect.com/science/article/pii/S0308597X1830914X
+https://www.mitsubishicorp.com/jp/en/news/release/2025/20250717001.html
+https://www.seafoodsource.com/news/aquaculture/lumpfish-production-becoming-big-business-in-norway
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9048166/
+https://businessnorway.com/events/join-the-norway-pavilion-at-seafood-processing-global-spg-barcelona
+https://www.reddit.com/r/Norway/comments/1l27vzr/anyone_worked_in_the_norwegian_fish_industry_what/
+https://www.reddit.com/r/ItalianFood/comments/1apv6jm/reliable_olive_oil_vendors_for_shipping_to_usa/
+https://www.oliveoiltimes.com/business/north-america/u-s-olive-oil-imports-increasingly-bulk/54726
+https://www.oliveoiltimes.com/business/bulk-exports-from-greece-help-fuel-the-italian-olive-oil-industry/111862
+https://www.mirakl.com/blog/2021-the-year-of-amazon-for-agriculture
+https://blog.tradewheel.com/10-best-b2b-agriculture-websites-for-2023
+https://app.dealroom.co/lists/11842
+https://www.softwareplatform.net/2021/05/03/top-50-b2b-marketplaces-q1-2021-applico-report/
+https://www.digitalcommerce360.com/product/b2b-marketplace-report/
+https://www.softwareplatform.net/2024/02/12/applicos-top-50-b2b-marketplaces/
+http://agriculture.canada.ca/en/international-trade/market-intelligence/e-commerce/e-commerce-and-digital-business-guide-canadian-food-and-beverage-companies/business-business-b2b-e-commerce-food-and-beverages
+https://tech.applicoinc.com/hubfs/Top_50_B2B_Marketplaces_2022.pdf

@@ -1,0 +1,17 @@
+# Class 0: B2B Marketplace / Wholesaler
+# --- Correcting misses on major B2B directories ---
+https://www.thomasnet.com/suppliers/usa/strawberries-97014281
+https://fruitb2b.com/en/
+https://www.supplybunny.com/en/list-of-products-matching-Cherry%20Tomato-search
+
+# Class 1: Direct Producer / Brand Site
+# --- Correcting misses on producer/distributor sites ---
+https://sunripecertified.com/product/cherry-tomatoes/
+https://rivercityproduce.com/
+https://naturesweet.com/products/cherubs/
+https://www.harmonyfoods.com.sg/strawberry-puree.html
+
+# Class 3: Information / Blog / News
+# --- Correcting false positives ---
+https://www.instagram.com/p/Cr_uR0MPudn/?hl=en
+https://www.indexmundi.com/agricultural-prices/product/cherry-tomatoes

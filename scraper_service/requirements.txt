@@ -1,0 +1,9 @@
+# --- Core Application ---
+fastapi
+uvicorn
+
+# --- Web Scraping ---
+selenium
+selenium-stealth
+webdriver-manager
+httpx
