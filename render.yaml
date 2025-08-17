@@ -16,7 +16,6 @@ services:
         value: http://product-ai-service:8002
       - key: ENRICHER_SERVICE_URL
         value: http://enrichment-llm-service:8003
-
   - type: web
     name: nlp-service
     env: docker
@@ -25,8 +24,7 @@ services:
     buildContext: ./nlp_service
     envVars:
       - key: GROQ_API_KEY
-        sync: false   # you’ll add in Render dashboard
-
+        sync: false
   - type: web
     name: search-engine-service
     env: docker
@@ -38,21 +36,18 @@ services:
         sync: false
       - key: GOOGLE_SEARCH_ENGINE_ID
         sync: false
-
   - type: web
     name: scraper-service
     env: docker
     plan: free
     dockerfilePath: ./scraper_service/Dockerfile
     buildContext: ./scraper_service
-
   - type: web
     name: product-ai-service
     env: docker
     plan: free
     dockerfilePath: ./product_ai_service/Dockerfile
     buildContext: ./product_ai_service
-
   - type: web
     name: enrichment-llm-service
     env: docker
