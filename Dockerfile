@@ -18,8 +18,6 @@ WORKDIR /app
 # Copy entire project
 COPY . .
 
-# Copy .env file
-COPY .env .env
 
 # Expose api_gateway port
 EXPOSE 8080
